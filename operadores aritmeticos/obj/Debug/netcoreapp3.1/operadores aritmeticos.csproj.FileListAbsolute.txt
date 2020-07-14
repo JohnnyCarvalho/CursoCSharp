@@ -1,0 +1,13 @@
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\bin\Debug\netcoreapp3.1\operadores aritmeticos.exe
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\bin\Debug\netcoreapp3.1\operadores aritmeticos.deps.json
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\bin\Debug\netcoreapp3.1\operadores aritmeticos.runtimeconfig.json
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\bin\Debug\netcoreapp3.1\operadores aritmeticos.runtimeconfig.dev.json
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\bin\Debug\netcoreapp3.1\operadores aritmeticos.dll
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\bin\Debug\netcoreapp3.1\operadores aritmeticos.pdb
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\obj\Debug\netcoreapp3.1\operadores aritmeticos.csprojAssemblyReference.cache
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\obj\Debug\netcoreapp3.1\operadores aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\obj\Debug\netcoreapp3.1\operadores aritmeticos.AssemblyInfoInputs.cache
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\obj\Debug\netcoreapp3.1\operadores aritmeticos.AssemblyInfo.cs
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\obj\Debug\netcoreapp3.1\operadores aritmeticos.dll
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\obj\Debug\netcoreapp3.1\operadores aritmeticos.pdb
+C:\Users\jhonn\CursoC#Udemy\operadores aritmeticos\obj\Debug\netcoreapp3.1\operadores aritmeticos.genruntimeconfig.cache

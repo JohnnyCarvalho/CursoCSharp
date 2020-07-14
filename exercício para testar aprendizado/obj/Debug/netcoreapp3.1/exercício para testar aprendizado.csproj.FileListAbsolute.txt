@@ -1,0 +1,13 @@
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\bin\Debug\netcoreapp3.1\exercício para testar aprendizado.exe
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\bin\Debug\netcoreapp3.1\exercício para testar aprendizado.deps.json
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\bin\Debug\netcoreapp3.1\exercício para testar aprendizado.runtimeconfig.json
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\bin\Debug\netcoreapp3.1\exercício para testar aprendizado.runtimeconfig.dev.json
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\bin\Debug\netcoreapp3.1\exercício para testar aprendizado.dll
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\bin\Debug\netcoreapp3.1\exercício para testar aprendizado.pdb
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\obj\Debug\netcoreapp3.1\exercício para testar aprendizado.csprojAssemblyReference.cache
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\obj\Debug\netcoreapp3.1\exercício para testar aprendizado.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\obj\Debug\netcoreapp3.1\exercício para testar aprendizado.AssemblyInfoInputs.cache
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\obj\Debug\netcoreapp3.1\exercício para testar aprendizado.AssemblyInfo.cs
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\obj\Debug\netcoreapp3.1\exercício para testar aprendizado.dll
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\obj\Debug\netcoreapp3.1\exercício para testar aprendizado.pdb
+C:\Users\jhonn\CursoC#Udemy\exercício para testar aprendizado\obj\Debug\netcoreapp3.1\exercício para testar aprendizado.genruntimeconfig.cache

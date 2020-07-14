@@ -1,0 +1,13 @@
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\bin\Debug\netcoreapp3.1\primeiro projeto c#.exe
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\bin\Debug\netcoreapp3.1\primeiro projeto c#.deps.json
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\bin\Debug\netcoreapp3.1\primeiro projeto c#.runtimeconfig.json
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\bin\Debug\netcoreapp3.1\primeiro projeto c#.runtimeconfig.dev.json
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\bin\Debug\netcoreapp3.1\primeiro projeto c#.dll
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\bin\Debug\netcoreapp3.1\primeiro projeto c#.pdb
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\obj\Debug\netcoreapp3.1\primeiro projeto c#.csprojAssemblyReference.cache
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\obj\Debug\netcoreapp3.1\primeiro projeto c#.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\obj\Debug\netcoreapp3.1\primeiro projeto c#.AssemblyInfoInputs.cache
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\obj\Debug\netcoreapp3.1\primeiro projeto c#.AssemblyInfo.cs
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\obj\Debug\netcoreapp3.1\primeiro projeto c#.dll
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\obj\Debug\netcoreapp3.1\primeiro projeto c#.pdb
+C:\Users\jhonn\CursoC#Udemy\primeiro projeto c#\obj\Debug\netcoreapp3.1\primeiro projeto c#.genruntimeconfig.cache
